@@ -32,7 +32,7 @@
 <img align="left" alt="CSS3" width="70px" height="30px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JavaScript" width="70px" height="30px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="PHP" width="70px" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" alt="MySQL" width="70px" height="30px" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="MySQL" width="70px" height="30px" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=black" />
 
 
 <br />
@@ -52,4 +52,4 @@
 [twitter]: https://twitter.com/GrantUpson
 [youtube]: https://www.youtube.com/channel/UCc4SwXQ38uwfGWIrVvMK11Q?
 [linkedin]: https://www.linkedin.com/in/grantupson/
-[twitch]: https://www.twitch.tv/grantupson
+[twitch]: https://www.twitch.tv/GrantUpson
