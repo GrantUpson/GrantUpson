@@ -15,7 +15,7 @@
 [<img align="left" alt="GrantUpson | Twitch" width="100px" src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 
 <br />
-
+<br />
 ---
 
 ### 📺 Latest YouTube Videos
@@ -24,7 +24,6 @@
 
 ---
 
-<img align="left" alt="Grant Upson's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GrantUpson&show_icons=true&hide_border=true" />
 
 [website]: https://grantupson.com
 [twitter]: https://twitter.com/GrantUpson
