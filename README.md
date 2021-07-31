@@ -15,15 +15,10 @@
 [<img align="left" alt="GrantUpson | Twitch" width="100px" src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 
 <br />
-<br />
----
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
----
-
 
 [website]: https://grantupson.com
 [twitter]: https://twitter.com/GrantUpson
