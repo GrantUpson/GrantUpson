@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, Indie Game Developer, Traveller, and Teacher!
 - :computer: I’m currently working on a [Complete Java Course][website]!
 - :notebook: I’m currently learning how to design and code a 2D game engine.
-- 🥅 2021 Goals: Further my knowledge of game development.
+- 🥅 2022 Goals: Further my knowledge of game development.
 - ⚡ Fun fact: I love to draw pixel art.
 
 ### Connect with me:
