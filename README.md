@@ -17,9 +17,6 @@
 <br />
 <br />
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 [website]: https://grantupson.com
 [twitter]: https://twitter.com/GrantUpson
