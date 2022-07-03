@@ -1,6 +1,6 @@
 ### Hi there, I'm Grant. 👋
 
-## I'm a Software Engineer, Indie Game Developer, Traveller, and Teacher!
+## I'm a Software Engineer and part time Game Developer!
 - :computer: I’m currently working on a [Complete Java Course][website]!
 - :notebook: I’m currently learning how to design and code a 2D game engine.
 - 🥅 2022 Goals: Further my knowledge of game development.
