@@ -3,7 +3,7 @@
 ## I'm a backend software engineer and part time indie game developer
 - :computer: I’m currently working on a [Complete Java Course][website]!
 - :notebook: I’m currently learning how to design and code a 2D game engine.
-- 🥅 2022 Goals: Further my knowledge of game development.
+- 🥅 2023 Goals: Further my knowledge of game development.
 - ⚡ Fun fact: I love to draw pixel art.
 
 ### Connect with me:
