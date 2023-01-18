@@ -41,6 +41,6 @@
 
 ### Stats
 
-![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrantUpson&show_icons=true&theme=nord)
+![Grant's GitHub stats](https://github-readme-stats-sigma-five.app/api?username=GrantUpson&show_icons=true&theme=nord)
 
 #
