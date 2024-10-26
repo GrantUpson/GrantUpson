@@ -2,22 +2,8 @@
 
 ## I'm a embedded C++ software engineer with a side interest in 2D game development
 - :notebook: I’m currently learning how to design and code a 2D game engine.
-- 🥅 2025 Goals: Further my knowledge of large scale system architecture and 2D game development.
+- 🥅 2025 Goals: Further my knowledge of large-scale system architecture and 2D game development.
 - ⚡ Fun fact: I love to draw pixel art and fantasy maps.
-
-### Connect with me:
-
-[<img align="left" alt="GrantUpson | LinkedIn" width="100px" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="GrantUpson | YouTube" width="100px" height="25px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="GrantUpson | X" width="100px" height="25px" src="https://img.shields.io/twitter/follow/GrantUpson?style=for-the-badge&logo=x&label=Twitter" />][twitter]
-[<img align="left" alt="GrantUpson | Twitch" width="100px" height="25px" src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/grantupson/
-[youtube]: https://www.youtube.com/channel/UCc4SwXQ38uwfGWIrVvMK11Q?
-[twitter]: https://x.com/GrantUpson
-[twitch]: https://www.twitch.tv/GrantUpson
 
 ---
 
