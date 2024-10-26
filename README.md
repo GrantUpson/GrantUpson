@@ -9,7 +9,7 @@
 
 [<img align="left" alt="GrantUpson | LinkedIn" width="100px" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="GrantUpson | YouTube" width="100px" height="25px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="GrantUpson | X" width="100px" height="25px" src="https://img.shields.io/badge/X-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="GrantUpson | X" width="100px" height="25px" src="https://img.shields.io/twitter/follow/GrantUpson?style=for-the-badge&logo=x&label=Twitter" />][twitter]
 [<img align="left" alt="GrantUpson | Twitch" width="100px" height="25px" src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 
 <br />
