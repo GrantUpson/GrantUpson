@@ -1,6 +1,6 @@
 ### Hi there, I'm Grant. 👋
 
-## I'm a embedded C++ software engineer with a side interest in 2D game development
+## I'm a software engineer focusing on embedded and system development in C++ with a side interest in 2D game development and rendering.
 - :notebook: I’m currently learning how to design and code a 2D game engine.
 - 🥅 2025 Goals: Further my knowledge of large-scale system architecture and 2D game development.
 - ⚡ Fun fact: I love to draw pixel art and fantasy maps.
